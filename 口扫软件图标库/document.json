@@ -1,0 +1,635 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "1CF30604-8FDB-40F4-A1A9-2A7C45C270C6",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "CB64D75D-796E-4224-89A5-BCCA63D36565",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "69D96F95-EC91-41A1-9E85-7CF965816624",
+      "fontFamilyName": "Alibaba PuHuiTi",
+      "fontFileName": "Alibaba-PuHuiTi-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "AlibabaPuHuiTi-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8C6C73F3-024B-4441-BF2E-B53BD7DA85C9",
+      "fontFamilyName": "Alibaba PuHuiTi",
+      "fontFileName": "Alibaba-PuHuiTi-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "AlibabaPuHuiTi-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9B6CF34D-593E-4888-9655-014A93F3D308",
+      "fontFamilyName": "Alibaba PuHuiTi",
+      "fontFileName": "Alibaba-PuHuiTi-Medium.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "AlibabaPuHuiTi-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F926D84E-CB79-401E-9B84-6A59B99FEC95",
+      "fontFamilyName": "Alibaba PuHuiTi",
+      "fontFileName": "Alibaba-PuHuiTi-Heavy.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "AlibabaPuHuiTi-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FF41AFC8-487C-4B51-A59D-0941213CFBDE",
+      "fontFamilyName": "Alibaba PuHuiTi",
+      "fontFileName": "Alibaba-PuHuiTi-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "AlibabaPuHuiTi-Bold"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "278FF71A-D845-4FA0-A8EC-C652C8C53AF4",
+      "libraryID": "FDC797C4-74DE-4A7E-AECB-745DA7ABE4FA",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "F1000285-D7F1-440D-AF21-02886F1FCDCD",
+        "name": "BASIC/grey",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "33939E32-2DBC-4C4B-92A1-ABC80A844264",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4509803921568628,
+                "green": 0.407843137254902,
+                "red": 0.3607843137254902
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "F4AD4C4F-089A-4BEF-AF03-5479503D0FA5",
+      "sourceLibraryName": "Shinning3D_Library",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "C4678F5B-3EB2-4C6D-9054-EFB22C8842D5",
+      "libraryID": "FDC797C4-74DE-4A7E-AECB-745DA7ABE4FA",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "1F3B135C-03FC-4D07-B593-89E5FB872EFA",
+        "name": "BASIC/blue",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "9356FC53-4FBF-4ED5-AC6B-3361F2D7D737",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8901960784313725,
+                "green": 0.4588235294117649,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "A413A8BA-D6D8-47B0-8E74-CA17D0CE9A4D",
+      "sourceLibraryName": "Shinning3D_Library",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "7CAF6AC0-3233-4825-9B9D-86247E0F4B87",
+      "libraryID": "FDC797C4-74DE-4A7E-AECB-745DA7ABE4FA",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "BA4F1E62-DE77-4188-887A-A5BAFE79DB80",
+        "name": "BASIC/green",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "065ADDB4-223B-48D0-B923-1635632A8417",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4980392156862745,
+                "green": 0.6313725490196078,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "E56F80BE-2266-4E33-883F-9207EAAE7865",
+      "sourceLibraryName": "Shinning3D_Library",
+      "symbolPrivate": false
+    }
+  ],
+  "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "708823C9-F9FB-44B2-B4C7-1E0B783209AE",
+      "libraryID": "75482D81-9DA1-4A7E-8CF6-4DE89223DF3A",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "4158118F-D18E-49D6-A191-0D702110E066",
+        "name": "6。#5C6873",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4509803921568628,
+          "green": 0.407843137254902,
+          "red": 0.3607843137254902
+        }
+      },
+      "remoteSwatchID": "79BA68B3-2D00-4392-8DA7-8ECCD321A2CD",
+      "sourceLibraryName": "Aoralscan视觉稿",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "112EFC8D-7BE2-457F-93F1-7FC0BCEE1207",
+      "libraryID": "75482D81-9DA1-4A7E-8CF6-4DE89223DF3A",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "7E916E60-B5EA-4BC6-90A7-F2FFF6F01A03",
+        "name": "5C6873",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4509803921568628,
+          "green": 0.407843137254902,
+          "red": 0.3607843137254902
+        }
+      },
+      "remoteSwatchID": "FE302539-17B8-4B5D-B784-78F43CC971D7",
+      "sourceLibraryName": "Aoralscan视觉稿",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "CE1047E0-C1AD-4762-86D4-CEB5799ADD77",
+      "libraryID": "75482D81-9DA1-4A7E-8CF6-4DE89223DF3A",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "AB24F342-0669-47E0-95B8-20247573864E",
+        "name": "3。#007AFE",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.996078431372549,
+          "green": 0.4784313725490196,
+          "red": 0
+        }
+      },
+      "remoteSwatchID": "2BEEF23E-A4BE-4698-B4DF-7F232C96AD4D",
+      "sourceLibraryName": "Aoralscan视觉稿",
+      "symbolPrivate": false
+    }
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "9F271C9A-9277-4D85-B41A-5DE58AB2787E",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "78.1",
+    "build": 131922,
+    "version": 136
+  },
+  "pages": [
+    "页面 1",
+    "控件"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "99AF9FAE-FA5C-4853-B101-7E621690F3C7",
+    "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "7803D2DF-8C6B-4DA3-982B-DFB97E754356",
+        "name": "5C6873",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4509803921568628,
+          "green": 0.407843137254902,
+          "red": 0.3607843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "999EC5E7-3320-465D-BDBA-9933C0EE1720",
+        "name": "6。#5C6873",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4509803921568628,
+          "green": 0.407843137254902,
+          "red": 0.3607843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "79C27D04-0EC7-4982-948F-B25226FC6211",
+        "name": "3。#007AFE",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.996078431372549,
+          "green": 0.4784313725490196,
+          "red": 0
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "D3E40B9C-AAC5-4444-8BE6-8986698A1647",
+        "name": "4。#D0021B",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1058823529411765,
+          "green": 0.007843137254901959,
+          "red": 0.8156862745098039
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "CD700F83-C22F-4A03-B698-FE5BF052BEF9",
+        "name": "6。#5C6873",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4513153433799744,
+          "green": 0.4088624119758606,
+          "red": 0.3589983582496643
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "0AE994C1-0712-4338-89B5-B20B23EB7017",
+        "name": "#5C6873",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4509803921568628,
+          "green": 0.407843137254902,
+          "red": 0.3607843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "83A30AD6-042D-444F-96D1-1A2483AD51A2",
+        "name": "ADB3B9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7254901960784313,
+          "green": 0.7019607843137254,
+          "red": 0.6784313725490196
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "101A7ABD-D9F2-4609-8AD7-51DC26031C5D",
+        "name": "2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4509803921568628,
+          "green": 0.407843137254902,
+          "red": 0.3607843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "4146F35D-B09B-492F-BF5E-5671926078C6",
+        "name": "蜡型",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3725490196078431,
+          "green": 0.5607843137254902,
+          "red": 0.3647058823529412
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "D7C8F67A-5372-4E62-A3EF-9788E3124E97",
+        "name": "1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8588235294117647,
+          "green": 0.8392156862745098,
+          "red": 0.8156862745098039
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5693A54C-081F-41FC-80E5-7D452C987298",
+        "name": "2灰",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6980392156862745,
+          "green": 0.6705882352941176,
+          "red": 0.6352941176470588
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7CBEBE1E-9822-49D2-AA2D-B621AAB7D6AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D28E618D-3536-4FB1-A268-4F75C978809A"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A7763C1-0E9B-4A34-91B2-575F572B2595"
+    },
+    {
+      "class": "shapePath",
+      "id": "C8695F66-50DF-41CD-8673-64BCD3E27953"
+    },
+    {
+      "class": "shapePath",
+      "id": "7AEA0CC5-5314-4F73-93C7-A6F5646FA1D2"
+    },
+    {
+      "class": "shapePath",
+      "id": "AEDE6DF0-4BA4-4CA2-9F40-AD221934F59A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "945AEA52-84F6-4E3B-8EDB-A613D6D706DE"
+    }
+  ],
+  "name": "图标/32*32/AI扫描",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "098A5595-274F-4DDE-8788-1FCAA3BBB736",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "D268D89F-ECC2-4B90-A334-E81952EBB2E9",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 32,
+          "x": 991,
+          "y": 1008
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "81C24407-4350-497E-ADB7-3DE367A3737B",
+        "symbolID": "D307D0B0-D6CA-4270-B36D-50376DBEAD8A"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "D268D89F-ECC2-4B90-A334-E81952EBB2E9",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 32,
+          "x": 991,
+          "y": 1008
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "81C24407-4350-497E-ADB7-3DE367A3737B",
+        "symbolID": "D307D0B0-D6CA-4270-B36D-50376DBEAD8A"
+      }
+    }
+  }
+}
